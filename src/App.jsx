@@ -10,7 +10,7 @@ import TrafficLight from "./components/TrafficLight";
 function App() {
   return (
     <div>
-      <TrafficLight color="yellow" />
+      <TrafficLight color="green" />
     </div>
   );
 }
